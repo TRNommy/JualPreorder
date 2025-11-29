@@ -1,0 +1,96 @@
+Create a full homepage design for ByFrom Store, an online shop using Telegram for orders.
+
+🩷 Overall Style:
+
+Cute kawaii pastel + modern clean design
+
+Soft gradient background (cream, pink, baby blue, light brown)
+
+Rounded corners, soft shadows, and cheerful atmosphere
+
+Minimal and responsive layout suitable for both desktop and mobile
+
+🏠 Sections:
+1. Header:
+
+Logo: ByFrom Store in a rounded kawaii font
+
+Menu: Home | Produk | Preorder | Tentang Kami | Hubungi Kami
+
+Highlight button: “🛍️ Pesan via Telegram” (link to t.me/byfromstore)
+
+2. Hero Banner (Main Banner):
+
+Background illustration: fruit sandwich, chocolate brownies, cute desserts, and pastel icons (hearts, stars, cookies).
+
+Text in center:
+
+“PREORDER DIBUKA!”
+
+“22 NOVEMBER | JAM 11.00–12.00 SIANG”
+
+“Menu Spesial: Sandwich Buah & Brownies Coklat 🍓🍫”
+
+Add one cute countdown-style clock icon for decoration (not showing days).
+
+Add Telegram button: “Pesan Sekarang via Telegram 💬”
+
+Keep layout clean and bright.
+
+3. Kategori Produk:
+
+Display with 4 rounded cards in kawaii pastel tones:
+
+👕 Pakaian — baju, jaket, hoodie
+
+👖 Celana — jeans, short, comfy wear
+
+👟 Sepatu — sneakers, casual shoes
+
+🍓 Makanan — sandwich buah & brownies coklat
+
+Each card has cute illustrations and a small “Pesan via Telegram” button.
+
+4. Produk Unggulan (Featured Products):
+
+Grid layout with soft pastel background
+
+Showcase top products: skincare, sandwich, brownies, hoodie, shoes
+
+Rounded product cards with shadow and hover animation
+
+Telegram button below each item
+
+5. Hubungi Kami (Contact Section):
+
+Title: “Hubungi Kami 💌”
+
+Icons and text list:
+
+📱 Telegram: t.me/byfromstore
+
+📸 Instagram: @byfrom.l
+
+✉️ Email: bsoalyuk@gmail.com
+
+Add soft background gradient and small kawaii icons (chat bubble, heart, fruit)
+
+6. Footer:
+
+Clean footer in light pastel cream tone
+
+Text: “© 2025 ByFrom Store — All Rights Reserved”
+
+Add mini Telegram icon + text “Order via Telegram Only 💬”
+
+🧁 Visual Style Notes:
+
+Pastel colors: #FDE2E4 (pink), #FFF5E1 (cream), #B5EAEA (blue), #C9A78B (brown), #FFD6A5 (peach)
+
+Soft light and shadows, smooth rounded corners
+
+Cute kawaii food and product illustrations
+
+Clean typography: rounded sans-serif font, large readable titles
+
+Output format: Full website mockup, 1920x1080 resolution, homepage layout.”
